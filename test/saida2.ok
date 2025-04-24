@@ -1,0 +1,5 @@
+=== OK na linha 0: 00 * 00 = 0000
+=== OK na linha 1: 00 * ff = 0000
+=== OK na linha 2: ff * 00 = 0000
+=== OK na linha 3: 01 * ff = 00ff
+=== OK na linha 4: ff * 01 = 00ff

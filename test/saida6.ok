@@ -1,0 +1,16 @@
+=== OK na linha 0: 03 * 04 = 000c
+=== OK na linha 1: 05 * 06 = 001e
+=== OK na linha 2: ff * 02 = 01fe
+=== OK na linha 3: 0a * 0a = 0064
+=== OK na linha 4: 00 * ff = 0000
+=== OK na linha 5: ff * ff = fe01
+=== OK na linha 6: 01 * 80 = 0080
+=== OK na linha 7: 80 * 02 = 0100
+=== OK na linha 8: 10 * 10 = 0100
+=== OK na linha 9: ff * 01 = 00ff
+=== OK na linha 10: 01 * ff = 00ff
+=== OK na linha 11: 0f * 0f = 00e1
+=== OK na linha 12: aa * 02 = 0154
+=== OK na linha 13: 02 * aa = 0154
+=== OK na linha 14: 0f * f0 = 0e10
+=== OK na linha 15: f0 * 0f = 0e10
